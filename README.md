@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" src="https://raw.githubusercontent.com/renanbrayner/renanbrayner/master/images/logo-black.png" width="350"/>
 
-<!--
-**renanbrayner/renanbrayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:renanbrayner@gmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-fale%20comigo-blue"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://renanbrayner.github.io/portfolio">
+<img align="right" alt="Portfolio" src="https://img.shields.io/badge/-Renan%20Brayner-lightgrey"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Oi! Bem vindo ao meu perfil! como vão as coisas? 👋🥰
+
+- 💻 Node, ReactJS, NextJS, React Native
+- ✨ Sempre tem algo novo para se aprender!
+
+
