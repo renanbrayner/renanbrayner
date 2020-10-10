@@ -4,7 +4,7 @@
 <img align="left" alt="E-mail" src="https://img.shields.io/badge/-fale%20comigo-blue"/>
 </a>
 
-<a href="https://renanbrayner.github.io/portfolio">
+<a href="https://renanbrayner.vercel.app">
 <img align="left" alt="Portfolio" src="https://img.shields.io/badge/-Renan%20Brayner-lightgrey"/>
 </a>
 
