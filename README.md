@@ -11,8 +11,9 @@
 <br/>
 
 ### Oi! Bem vindo ao meu perfil! como vão as coisas? 👋
-
-- 💻 Node, ReactJS, NextJS, React Native
-- ✨ Sempre tem algo novo para se aprender!
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    width=325
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbrayner&hide=java,vim%20script,vim%20snippet&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
