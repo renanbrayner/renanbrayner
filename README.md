@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/renanbrayner/renanbrayner/master/images/logo-black.png" width="200"/>
+<img align="right" src="https://github.com/renanbrayner/renanbrayner/assets/29386809/3d8186cd-cec6-4674-8746-2efee26a689f" width="200"/>
 
 <a href="mailto:renanbrayner@gmail.com">
 <img align="left" alt="E-mail" src="https://img.shields.io/badge/-fale%20comigo-blue"/>
